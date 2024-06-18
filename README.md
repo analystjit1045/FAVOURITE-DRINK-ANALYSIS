@@ -1,5 +1,5 @@
 # FAVOURITE-DRINK-ANALYSIS
-EXPLORATORY ANALYSIS ABOUT WHICH DRINK IS MOST POPULAR IN WHICH COUNTRY
+EXPLORATORY ANALYSIS ABOUT GLOBAL ALCOHOL CONSUMPTION 
 #RECOMMENDATION :
 1. Alcohol Consumption Awareness: Countries with high overall alcohol consumption, such as Grenada, Belarus, Czech Republic, Ireland, and Germany, should consider implementing awareness campaigns and educational programs to promote responsible drinking and highlight the potential health risks associated with excessive alcohol consumption.
 
